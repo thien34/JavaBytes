@@ -1,6 +1,7 @@
 # Sử dụng Enum trong JPA 📚
 
 Date: 19/09/2024
+<br>
 Author: Hạo Thiên
 
 Enum luôn được khuyên dùng và được sử dụng rất phổ biến trong JPA. Enum giúp kiểm tra giá trị đầu vào của database, đồng thời thể hiện trực quan giá trị của database thông qua Enum ở tầng Java code.
